@@ -11,4 +11,3 @@ dependencies:
     - thinc
     - torch
     - xlrd
-    - openyxl
