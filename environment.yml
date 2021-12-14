@@ -12,3 +12,4 @@ dependencies:
     - torch
     - xlrd
     - openpyxl
+    - tensorflow
